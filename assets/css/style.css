@@ -1,0 +1,20 @@
+body {
+    background-color: maroon;
+    font-family: 'Questrial', sans-serif;
+}
+
+.container {
+    width: 600px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    background-color: gainsboro;
+    padding: 20px;
+}
+
+#maintitle {
+    font-size: 18px;
+    text-align: center;
+    text-emphasis: bold;
+}
