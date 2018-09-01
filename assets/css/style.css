@@ -15,7 +15,7 @@ body {
 }
 
 #maintitle {
-    font-size: 18px;
+    font-size: xx-large;
     text-align: center;
     text-emphasis: bold;
 }
@@ -27,7 +27,5 @@ body {
     height: 200px;
 }
 
-h1{
-    font-size: xx-large
-}
+
 
