@@ -27,7 +27,7 @@ var qAndA = [{
     question: "Where are we?",
     answer: ["Mexico City", "Quito", "Austin", "Berlin"],
     correct: "Quito",
-    image: "assets/images/_quito.jpg"
+    image: "assets/images/quito.jpg"
 },
 
 {
