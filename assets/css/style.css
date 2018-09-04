@@ -6,10 +6,10 @@ body {
 
 .container {
     width: 700px;
-    height: 600px;
+    height: 800px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 20px;
+    margin-top: 0px;
     background-color: black;
     padding: 20px;
 }
@@ -23,8 +23,20 @@ body {
 #imagecontainer {
     margin-left: auto;
     margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
     width: 400px;
     height: 200px;
+}
+
+#buttons {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#timer {
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
